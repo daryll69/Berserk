@@ -7,11 +7,27 @@
     "chapters": {
         "1": {
             "groups": {
-                "Daryll Imgur": "/proxy/api/imgur/chapter/r9EWDHk"
+                "Daryll's Imgur": "/proxy/api/imgur/chapter/r9EWDHk"
             },
-            "last_updated": 1624606143,
+            "last_updated": 1638969011,
             "title": "The Black Swordsman",
             "volume": "1"
-        }
+        },   
+        "2": {
+            "groups": {
+                "Daryll's Imgur": "/proxy/api/imgur/chapter/IYU9kYP"
+            },
+            "last_updated": 1638969011,
+            "title": "The Brand",
+            "volume": "1"
+        }, 
+        "3": {
+            "groups": {
+                "Daryll's Imgur": "/proxy/api/imgur/chapter/Ih7OpSX"
+            },
+            "last_updated": 1638969011,
+            "title": "The Guardians of Desire, Chapter 1",
+            "volume": "1"
+        } 
     }
 }
