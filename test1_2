@@ -1,0 +1,18 @@
+
+{    
+    "title": "Berserk",
+    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
+    "author": "Shield Generator 7",
+    "artist": "Shield Generator 7",
+    "cover": "https://i.imgur.com/s5Qm9wE.jpg",
+    "chapters": {
+        "0": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/r9EWDHk"
+            },
+            "last_updated": 1624606143,
+            "title": "Intro",
+            "volume": "1"
+        }
+    }
+}
