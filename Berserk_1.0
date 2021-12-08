@@ -36,6 +36,14 @@
             "last_updated": 1638969011,
             "title": "The Guardians of Desire, Part Two",
             "volume": "2"
-        }         
+        },
+        "5": {
+            "groups": {
+                "Daryll's Collection": "/proxy/api/imgur/chapter/M1jZLzv"
+            },
+            "last_updated": 1638969011,
+            "title": "The Guardians of Desire, Part Three",
+            "volume": "2"
+        }       
     }
 }
