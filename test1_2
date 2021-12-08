@@ -5,7 +5,7 @@
     "artist": "Kentaro Miura",
     "cover": "https://i.imgur.com/s5Qm9wE.jpg",
     "chapters": {
-        "A0": {
+        "0": {
             "groups": {
                 "Daryll Imgur": "/proxy/api/imgur/chapter/r9EWDHk"
             },
