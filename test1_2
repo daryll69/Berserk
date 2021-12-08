@@ -1,17 +1,16 @@
-
 {    
     "title": "Berserk",
-    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
-    "author": "Shield Generator 7",
-    "artist": "Shield Generator 7",
+    "description": "Guts, a former mercenary now known as the "Black Swordsman," is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings. Setting out on a dreadful quest riddled with misfortune, Guts, armed with a massive sword and monstrous strength, will let nothing stop him, not even death itself, until he is finally able to take the head of the one who stripped him—and his loved one—of their humanity.",
+    "author": "Kentaro Miura",
+    "artist": "Kentaro Miura",
     "cover": "https://i.imgur.com/s5Qm9wE.jpg",
     "chapters": {
-        "0": {
+        "A0": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/r9EWDHk"
+                "Daryll Imgur": "/proxy/api/imgur/chapter/r9EWDHk"
             },
             "last_updated": 1624606143,
-            "title": "Intro",
+            "title": "The Black Swordsman",
             "volume": "1"
         }
     }
