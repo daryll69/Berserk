@@ -60,6 +60,22 @@
             "last_updated": 1639477637,
             "title": "The Guardians of Desire, Chapter 5",
             "volume": "3"
+        },
+        "8": {
+            "groups": {
+                "Daryll's Collection": "/proxy/api/imgur/chapter/13sanEo"
+            },
+            "last_updated": 1639477637,
+            "title": "The Guardians of Desire, Chapter 6",
+            "volume": "3"
+        },
+        "9": {
+            "groups": {
+                "Daryll's Collection": "/proxy/api/imgur/chapter/NHzyWNl"
+            },
+            "last_updated": 1639477637,
+            "title": "The Golden Age, Chapter 1",
+            "volume": "3"
         }       
     }
 }
